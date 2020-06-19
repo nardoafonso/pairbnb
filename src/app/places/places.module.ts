@@ -17,4 +17,4 @@ import { PlacesPage } from './places.page';
   ],
   declarations: [PlacesPage]
 })
-export class PlacesPageModule {}
+export class PlacesPageModule { }
